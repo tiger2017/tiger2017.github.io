@@ -20,14 +20,13 @@ M.S. in CSE (Computational Science and Engineering), Georgia Institute of Techno
 
 ## Computational Skills
 
-
+Python, Fortran, IDL, R, Java, Matlab, Linux, Mathematica, OpenMP, HPC, Machine Learning
 
 [//]: #> This is a blockquote following a header.
 [//]: #>
 [//]: #> When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
-
+<!--
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -108,7 +107,7 @@ end
 
 
 ### Definition lists can be used with HTML syntax.
-<!--
+
 <dl>
 <dt>Name</dt>
 <dd>Godzilla</dd>
@@ -119,7 +118,7 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
--->
+
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
@@ -127,3 +126,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
