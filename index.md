@@ -15,6 +15,13 @@ My expertise including numerical modeling and simulation, data analysis and mach
 
 Ph.D. in space physics, Georgia Institute of Technology (2012 - 2018)
 
+
+
+
+
+
+
+ 
 M.S. in CSE (Computational Science and Engineering), Georgia Institute of Technology (2016 - 2017)
 
 
