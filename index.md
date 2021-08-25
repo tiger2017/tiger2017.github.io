@@ -32,7 +32,6 @@ Python, Fortran, IDL, R, Java, Matlab, Linux, Mathematica, OpenMP, HPC, Machine 
 
 >
 
-edited in Colorado
 
  
 [//]: #> This is a blockquote following a header.
