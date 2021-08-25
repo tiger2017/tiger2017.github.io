@@ -20,7 +20,7 @@ My expertise includes numerical modeling and simulation, data analysis and machi
 
 ## Computational Skills
 
-> Python, Fortran, IDL, R, Java, Matlab, Linux, Mathematica, OpenMP, HPC, Machine Learning
+> Python, R, Fortran, IDL, Java, Matlab, Linux, Mathematica, OpenMP, HPC, Machine Learning
 
 
 
