@@ -4,21 +4,27 @@ layout: default
 
 [//]: # Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+[//]: # [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+Hi, I am a Research Scientist at University of Colorado Boulder, working on the application of Machine Learning techniques to the dynamics of space systems in our solar system.
+ 
+My expertise including numerical modeling and simulation, data analysis and machine learning. My research interest includes but not limited to the planetary and moons' plasma environment, the interaction between the magnetized bodies and the high-speed charged solar wind.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+## Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Ph.D. in space physics, Georgia Institute of Technology (2012 - 2018)
 
-## Header 2
+M.S. in CSE (Computational Science and Engineering), Georgia Institute of Technology (2016 - 2017)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+
+## Computational Skills
+
+
+
+[//]: #> This is a blockquote following a header.
+[//]: #>
+[//]: #> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
