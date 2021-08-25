@@ -15,12 +15,12 @@ My expertise includes numerical modeling and simulation, data analysis and machi
 
 > Ph.D. in space physics, Georgia Institute of Technology (2012 - 2018)
  
-> M.S. in CSE (Computational Science and Engineering), Georgia Institute of Technology (2016 - 2017)
+> M.S. in Computational Science and Engineering, Georgia Institute of Technology (2016 - 2017)
 
 
 ## Computational Skills
 
-Python, Fortran, IDL, R, Java, Matlab, Linux, Mathematica, OpenMP, HPC, Machine Learning
+> Python, Fortran, IDL, R, Java, Matlab, Linux, Mathematica, OpenMP, HPC, Machine Learning
 
 
 
