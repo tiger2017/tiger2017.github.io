@@ -8,14 +8,14 @@ layout: default
 
 Hi, I am a Research Scientist at University of Colorado Boulder, working on the application of Machine Learning techniques to the dynamics of space systems in our solar system.
  
-My expertise includes numerical modeling and simulation, data analysis and machine learning. My research interest includes but not limited to the planetary and moons' plasma environment, the interaction between the magnetized bodies and the high-speed charged solar wind.
+My expertise includes numerical modeling and simulation, data analysis and machine learning. My research interest includes but not limited to the planetary and moons' plasma environment, the interaction between the magnetized bodies and the high-speed charged solar wind, and the ionospheric response to the external drivers.
 
 
 ## Education
 
-Ph.D. in space physics, Georgia Institute of Technology (2012 - 2018)
+> Ph.D. in space physics, Georgia Institute of Technology (2012 - 2018)
  
-M.S. in CSE (Computational Science and Engineering), Georgia Institute of Technology (2016 - 2017)
+> M.S. in CSE (Computational Science and Engineering), Georgia Institute of Technology (2016 - 2017)
 
 
 ## Computational Skills
